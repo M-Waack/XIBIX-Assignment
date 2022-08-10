@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: Lenovo
+Build-Jdk: 17.0.1
+Class-Path: json-simple-1.1.1.jar junit-4.10.jar hamcrest-core-1.1.jar
+Main-Class: codingChallengeXIBIX.ChallengeApp
+Created-By: Maven Integration for Eclipse
+
